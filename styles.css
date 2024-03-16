@@ -1,0 +1,29 @@
+body {
+    font-family: Arial;
+    margin: 50px 200px;
+}
+
+h1 {
+    background-color: rgb(141, 108, 108);
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans';
+}
+
+h1:hover {
+    background-color: black;
+}
+
+p {
+    text-indent: 20px;
+}
+
+.tituloLista {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+ol {
+    text-align: justify;
+}
